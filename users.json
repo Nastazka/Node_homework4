@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "FName": "James",
+        "LName": "Smith",
+        "PhoneNumber": "1234567890"
+    },
+    {
+        "id": "2",
+        "FName": "John",
+        "LName": "Johnson",
+        "PhoneNumber": "2468101214"
+    },
+    {
+        "id": "3",
+        "FName": "Michael",
+        "LName": "Williams",
+        "PhoneNumber": "1357911131"
+    },
+    {
+        "id": "4",
+        "FName": "Johnathon",
+        "LName": "Smith",
+        "PhoneNumber": "1212121212"
+    },
+    {
+        "id": "5",
+        "FName": "Richard",
+        "LName": "Davis",
+        "PhoneNumber": "1231231231"
+    }
+]
